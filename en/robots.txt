@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://shadowfiend.github.io/sitemap.xml
