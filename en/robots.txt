@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://shadowfiend.github.io/sitemap.xml
+Sitemap: https://mr-house.github.io/sitemap.xml
