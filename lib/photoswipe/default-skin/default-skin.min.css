@@ -15,8 +15,8 @@
   opacity: 0.75;
   -webkit-transition: opacity 0.2s;
   transition: opacity 0.2s;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  -webkit-box-mr-house: none;
+  box-mr-house: none;
 }
 .pswp__button:focus,
 .pswp__button:hover {
@@ -151,8 +151,8 @@
   display: block;
   width: auto;
   right: 44px;
-  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  -webkit-box-mr-house: 0 2px 5px rgba(0, 0, 0, 0.25);
+  box-mr-house: 0 2px 5px rgba(0, 0, 0, 0.25);
   -webkit-transform: translateY(6px);
   -ms-transform: translateY(6px);
   transform: translateY(6px);
